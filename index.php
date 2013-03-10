@@ -1,4 +1,4 @@
 <?
-echo 'Testovij';
+	echo 'Testovij';
 ?>
-новая строка
+new_stroka
